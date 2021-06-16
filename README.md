@@ -1,6 +1,6 @@
 ### Hi there, I'm Aman 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
