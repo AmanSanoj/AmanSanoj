@@ -63,6 +63,14 @@
 
 </details>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 [youtube]: https://www.youtube.com/c/Aman%E2%80%99sLifeinaNutshell
 [instagram]: https://instagram.com/Amans_Life_In_a_Nutshell
 [dewebsite]: https://debugentities.github.io
