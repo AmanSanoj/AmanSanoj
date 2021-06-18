@@ -35,7 +35,6 @@
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 <br />
-<br />
 
 ---
 
@@ -52,20 +51,18 @@
 
 ---
 
-
-
-<details>
-  <summary>⚡️ GitHub Stats</summary>
-
-  <img align="left" alt="Aman-Sanoj's GitHub Stats" src="https://github-readme-stats-aman-sanoj.vercel.app//api?username=Aman-Sanoj&show_icons=true&hide_border=true" />
-
-</details>
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>⚡️ GitHub Stats</summary>
+
+  <img align="left" alt="Aman-Sanoj's GitHub Stats" src="https://github-readme-stats-aman-sanoj.vercel.app//api?username=Aman-Sanoj&show_icons=true&hide_border=true" />
 
 </details>
 
