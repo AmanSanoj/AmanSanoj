@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-github-readme.vercel.app/api/spotify-playing" alt="Aman-Sanoj Spotify Playing" width="350" />]
+[![Spotify](https://spotify-now-playing-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/smqujnojq8qs9rp5o8lcnvnkl)
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
