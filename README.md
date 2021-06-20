@@ -11,6 +11,10 @@
 - ⚡ Fun fact: I love to expiriment with different packages
 - Part of [Debug Entites][dewebsite]
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-github-readme.vercel.app/api/spotify-playing" alt="Aman-Sanoj Spotify Playing" width="350" />]
+
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,14 +54,6 @@
 ➡️ [more videos...](https://www.youtube.com/c/Aman%E2%80%99sLifeinaNutshell)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>⚡️ GitHub Stats</summary>
