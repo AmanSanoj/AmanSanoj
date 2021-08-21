@@ -44,21 +44,6 @@
 
 <br />
 
----
-
-### 📺 Latest YouTube Videos 
-<!-- YOUTUBE:START -->
-- [Enjoying the sunrise with family](https://www.youtube.com/watch?v=SSw035Aen4I)
-- [🚘 Drive to IKEA, QATAR 🇶🇦](https://www.youtube.com/watch?v=_JYgyahBaVc)
-- [Visit to a private farm in qatar | ATT&G](https://www.youtube.com/watch?v=wUbSfJmVOS4)
-- [A Drive to Lusail City | ATT&G](https://www.youtube.com/watch?v=WNCYjb8Da_8)
-- [15 Brands you're (probably) Mispronouncing !](https://www.youtube.com/watch?v=bcmOEsvWorc)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/c/Aman%E2%80%99sLifeinaNutshell)
-
----
-
 <details>
   <summary>⚡️ GitHub Stats</summary>
 
