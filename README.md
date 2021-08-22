@@ -53,7 +53,7 @@
 
 <details>
   <summary>A random tech joke 😂</summary>
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  <img align="left" alt="A Random Joke" src="https://readme-jokes.vercel.app/api">
 </details>
 
 [instagram]: https://instagram.com/Amans_Life_In_a_Nutshell
