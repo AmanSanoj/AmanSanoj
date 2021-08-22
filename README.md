@@ -51,6 +51,10 @@
 
 </details>
 
-[youtube]: https://www.youtube.com/c/Aman%E2%80%99sLifeinaNutshell
+<details>
+  <summary>A random tech joke 😂</summary>
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+</details>
+
 [instagram]: https://instagram.com/Amans_Life_In_a_Nutshell
 [dewebsite]: https://debugentities.github.io
