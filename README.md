@@ -13,7 +13,7 @@
 - Part of [Debug Entites][dewebsite]
 
 ### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Aman-Sanoj/count.svg)
+![Visitor Count](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Aman-Sanoj)
 
 ### Spotify Playing 🎧
 
