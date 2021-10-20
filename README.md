@@ -12,9 +12,6 @@
 - ⚡ Fun fact: I love to expiriment with different packages
 - Part of [Debug Entites][dewebsite]
 
-### Visitor Count
-![Visitor Count](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Aman-Sanoj)
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-now-playing-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/smqujnojq8qs9rp5o8lcnvnkl)
@@ -56,5 +53,5 @@
   <img align="left" alt="A Random Joke" src="https://readme-jokes.vercel.app/api">
 </details>
 
-[instagram]: https://instagram.com/Amans_Life_In_a_Nutshell
+[instagram]: https://instagram.com/aman_sanoj
 [dewebsite]: https://debugentities.github.io
