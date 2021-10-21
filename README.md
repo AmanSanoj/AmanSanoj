@@ -47,7 +47,7 @@
   <img align="left" alt="Aman-Sanoj's GitHub Stats" src="https://github-readme-stats-aman-sanoj.vercel.app//api?username=Aman-Sanoj&show_icons=true&hide_border=true" />
 
 </details>
-
+<br><br>
 <details>
   <summary>A random tech joke 😂</summary>
   <img align="left" alt="A Random Joke" src="https://readme-jokes.vercel.app/api">
