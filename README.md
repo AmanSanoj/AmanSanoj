@@ -43,13 +43,7 @@
 <details>
   <summary>⚡️ GitHub Stats</summary>
 
-  <img align="left" alt="Aman-Sanoj's GitHub Stats" src="https://github-readme-stats-aman-sanoj.vercel.app/api?hide_border=true&username=Aman-Sanoj&show_icons=true" />
-
-</details>
-<br>
-<details>
-  <summary>A random tech joke 😂</summary>
-  <img align="left" alt="A Random Joke" src="https://readme-jokes.vercel.app/api">
+  <img align="left" alt="Aman-Sanoj's GitHub Stats" src="https://github-readme-stats-aman-sanoj.vercel.app/api?hide_border=true&username=Aman-Sanoj&show_icons=true&theme=algolia&hide=stars,prs" />
 </details>
 
 [instagram]: https://instagram.com/aman_sanoj
