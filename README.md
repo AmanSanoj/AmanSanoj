@@ -43,7 +43,7 @@
 <details>
   <summary>⚡️ GitHub Stats</summary>
 
-  <img align="left" alt="Aman-Sanoj's GitHub Stats" src="https://github-readme-stats-aman-sanoj.vercel.app//api?username=Aman-Sanoj&show_icons=true&hide_border=true" />
+  <img align="left" alt="Aman-Sanoj's GitHub Stats" src="https://github-readme-stats-aman-sanoj.vercel.app/api?hide_border=true&username=Aman-Sanoj&show_icons=true" />
 
 </details>
 <br>
