@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debugentities.aman@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aman_sanoj)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@aman_aditi)
-[![Website](https://img.shields.io/badge/website-3b86ff?style=for-the-badge&logo=About.me&logoColor=white)](https://Aman-Sanoj.github.io)
+[![Website](https://img.shields.io/badge/website-3b86ff?style=for-the-badge&logo=About.me&logoColor=white)](https://AmanSanoj.github.io)
 
 ## I'm a Student!
 
@@ -44,7 +44,7 @@
 <details>
   <summary>⚡️ GitHub Stats</summary>
 
-  <img align="left" alt="Aman-Sanoj's GitHub Stats" src="https://github-readme-stats-aman-sanoj.vercel.app/api?hide_border=true&username=Aman-Sanoj&show_icons=true&theme=algolia&hide=stars,prs" />
+  <img align="left" alt="Aman-Sanoj's GitHub Stats" src="https://github-readme-stats-aman-sanoj.vercel.app/api?hide_border=true&username=AmanSanoj&show_icons=true&theme=algolia&hide=stars,prs" />
 </details>
 
 [instagram]: https://instagram.com/aman_sanoj
