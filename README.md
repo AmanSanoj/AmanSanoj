@@ -1,14 +1,14 @@
 ### Hi there, I'm Aman 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debugentities.aman@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansanoj08@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aman_sanoj)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@aman_aditi)
-[![Website](https://img.shields.io/badge/website-3b86ff?style=for-the-badge&logo=About.me&logoColor=white)](https://AmanSanoj.github.io)
+[![Website](https://img.shields.io/badge/website-3b86ff?style=for-the-badge&logo=About.me&logoColor=white)](https://bio.amansanoj.repl.co)
 
 ## I'm a Student!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Have my contributions totally green
+- 🥅 2022 Goals: Have my contributions totally green
 - ⚡ Fun fact: I love to expiriment with different packages
 - Part of [Debug Entites][dewebsite]
 
