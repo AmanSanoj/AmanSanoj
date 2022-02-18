@@ -7,7 +7,7 @@
 
 ## I'm a Student!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😂
 - 🥅 2022 Goals: Have my contributions totally green
 - ⚡ Fun fact: I love to expiriment with different packages
 - Part of [Debug Entites][dewebsite]
